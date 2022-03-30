@@ -64,7 +64,7 @@
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Rahmat Tri Saputra</span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
+                      <p><span class="title-s">Alamat: </span> <span>full stack developer</span></p>
                       <p><span class="title-s">Email: </span> <span>app.1901093028@gmail.com</span></p>
                       <p><span class="title-s">Phone: </span> <span>(+62) 853 6356 0334 </span></p>
                     </div>
@@ -160,9 +160,9 @@
             <h3 class="title-a">
               Services
             </h3>
-            <p class="subtitle-a">
+            <!-- <p class="subtitle-a">
               Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            </p>
+            </p> -->
             <div class="line-mf"></div>
           </div>
         </div>
@@ -176,9 +176,7 @@
             <div class="service-content">
               <h2 class="s-title">Web Design</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+              Web Design(Perancangan web) adalah istilah umum yang digunakan untuk mencakup bagaimana isi web konten ditampilkan, yang dikirimkan ke pengguna akhir melalui World Wide Web, dengan menggunakan sebuah browser web atau perangkat lunak berbasis web.
               </p>
             </div>
           </div>
@@ -191,14 +189,12 @@
             <div class="service-content">
               <h2 class="s-title">Web Development</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+              Web Development(Pengembangan web) adalah istilah yang luas untuk pekerjaan yang terlibat dalam mengembangkan suatu situs web untuk internet ( World Wide Web ) atau intranet (jaringan pribadi).
               </p>
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <!-- <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="ion-camera"></i></span>
@@ -212,7 +208,7 @@
               </p>
             </div>
           </div>
-        </div>
+        </div> -->
         <!-- <div class="col-md-4">
           <div class="service-box">
             <div class="service-ico">
@@ -316,7 +312,7 @@
   </div>
 
   <!--/ Section Portfolio Star /-->
-  <section id="work" class="portfolio-mf sect-pt4 route">
+  <section id="portfolio" class="portfolio-mf sect-pt4 route">
     <div class="container">
       <div class="row">
         <div class="col-sm-12">
@@ -648,7 +644,7 @@
                 <div class="col-md-6">
                   <div class="title-box-2">
                     <h5 class="title-left">
-                      Send Message Us
+                      Send Message for me
                     </h5>
                   </div>
                   <div>
@@ -690,19 +686,14 @@
                 <div class="col-md-6">
                   <div class="title-box-2 pt-4 pt-md-0">
                     <h5 class="title-left">
-                      Get in Touch
+                      Contact
                     </h5>
                   </div>
                   <div class="more-info">
-                    <p class="lead">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem
-                      expedita aperiam aliquid at.
-                      Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
-                      mollitia inventore?
-                    </p>
+                    
                     <ul class="list-ico">
                       <li><span class="ion-ios-location"></span> Padang Panjang, Sumatera Barat, Indonesia</li>
-                      <li><span class="ion-ios-telephone"></span> (+62) 853 6356 0334</li>
+                      <li><span class="ion-ios-telephone"></span> (+62) 853 6356 0334 </li>
                       <li><span class="ion-email"></span>app.1901093028@gmail.com</li>
                     </ul>
                   </div>
@@ -710,8 +701,8 @@
                     <ul>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-facebook"></i></span></a></li>
                       <li><a href=""><span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-twitter"></i></span></a></li>
-                      <li><a href=""><span class="ico-circle"><i class="ion-social-pinterest"></i></span></a></li>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-whatsapp"></i></span></a></li>
+                      <li><a href=""><span class="ico-circle"><i class="ion-social-google"></i></span></a></li>
                     </ul>
                   </div>
                 </div>
